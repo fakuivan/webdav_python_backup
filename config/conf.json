@@ -1,0 +1,17 @@
+{
+    "connection": {
+        "hostname"   : "cool.hostname.cooltld",
+        "path"       : "path_to_webdav",
+        "username"   : "cool_uname",
+        "password"   : "cool_pass", 
+        "protocol"   : "http/https",
+        "port"       : 443,
+        "verify_ssl" : true,
+        "path_bk"    : "remote/path"
+    },
+    "worlds": [{
+        "name": "title",
+        "path": "pa/th"
+        }
+    ]
+}
